@@ -6,6 +6,5 @@ Joc programat en JAVA amb Netbeans (IDE)
 
 ## Grup d'Estudiants
 
-Ramsés Leal - `leal.ramses@gmail.com`
-
-(Projecte en solitari) 
+* Ramsés Leal - `leal.ramses@gmail.com`
+* (Projecte en solitari) 
